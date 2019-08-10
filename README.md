@@ -11,7 +11,7 @@ A list of useful and awesome sites 📑😻
 - [IMGBIN](https://imgbin.com/) - Get unlimited access to millions of free transparent PNG files
 - [Moose](https://photos.icons8.com/) - Realistic photos collages
 - [Carbon](https://carbon.now.sh) - Create and share beautiful images of your source code.
-- [Icons8](https://icons8.ru) - Free vector icons.
+- [Icons8](https://icons8.com) - Free vector icons.
 #### Skill UP 🚀
 - [Livechatinc](https://www.livechatinc.com/typing-speed-test/#/) - Typing Speed Test
 
