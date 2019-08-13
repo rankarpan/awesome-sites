@@ -6,6 +6,7 @@ A list of useful and awesome sites 📑😻
 - [Devhints](https://devhints.io/) - A collection of dev cheatsheets.
 - [Exercism](https://exercism.io/) - Code practice and mentorship for everyone
 - [Crontab Guru](https://crontab.guru) - The quick and simple editor for cron schedule expressions
+- [Sshwifty](https://sshwifty.herokuapp.com/) - An Open Source Web SSH Client that enables you to connect to SSH servers without download any additional software.
 #### Graphics (photos, icons, ilustrations 🤳
 - [Lorem Picsum](https://picsum.photos/) - The Lorem Ipsum for photos.
 - [Mockit](https://mockit.netlify.com/) - Quickly create mock APIs.
