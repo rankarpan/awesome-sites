@@ -2,6 +2,7 @@
 A list of useful and awesome sites 📑😻
 
 #### Development 💻
+- [30 Seconds of CSS](https://30-seconds.github.io/30-seconds-of-css/) - A curated collection of useful CSS snippets you can understand in 30 seconds or less.
 - [Codewars](https://www.codewars.com/) - Improve your skills by training with others on real code challenges
 - [Devhints](https://devhints.io/) - A collection of dev cheatsheets.
 - [Exercism](https://exercism.io/) - Code practice and mentorship for everyone
