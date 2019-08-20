@@ -8,6 +8,7 @@ A list of useful and awesome sites 📑😻
 - [Exercism](https://exercism.io/) - Code practice and mentorship for everyone
 - [Crontab Guru](https://crontab.guru) - The quick and simple editor for cron schedule expressions
 - [Sshwifty](https://sshwifty.herokuapp.com/) - An Open Source Web SSH Client that enables you to connect to SSH servers without download any additional software.
+- [30 seconds of code](https://www.30secondsofcode.org/) - Curated collection of useful JavaScript snippets that you can understand in 30 seconds or less.
 #### Graphics (photos, icons, ilustrations 🤳
 - [Lorem Picsum](https://picsum.photos/) - The Lorem Ipsum for photos.
 - [Mockit](https://mockit.netlify.com/) - Quickly create mock APIs.
